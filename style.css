@@ -1,0 +1,32 @@
+
+h3{
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+aside{
+    background-color: whitesmoke;
+    border: 1px black solid;
+    width: 30%;
+    float: right;
+    text-align: center;
+    
+}
+div{
+    width: 100%;
+    
+}
+#mother{
+    width: 100%;
+}
+main{
+    float: left;  
+}
+#tbl{
+    width: 890px;
+   
+}
+
+}
+.in{
+    text-align: center;
+}
